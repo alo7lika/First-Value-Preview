@@ -12,7 +12,7 @@ A new teammate should be able to understand their access, create a note, and rea
 
 ## 🚀 Try the prototype
 
-[**Open the First Value Preview**](https://github.com/alo7lika/fictional-team-notes-product-prototype/blob/main/outputs/prototype.html)
+[**Open the First Value Preview**](https://firstvaluepreview.netlify.app/)
 
 1. Select **Create a note**, enter some text, and save it.
 2. Select **Generate summary** to see a deterministic sample summary.
@@ -25,7 +25,7 @@ The prototype is a standalone HTML file. It needs no installation or server when
 
 - 🧭 [Why this problem? — intent and prioritization](https://github.com/alo7lika/fictional-team-notes-product-prototype/blob/main/outputs/intent.md)
 - 📝 [Final directive — requirements and release handoff](https://github.com/alo7lika/fictional-team-notes-product-prototype/blob/main/outputs/Final%20directive.md)
-- 🖱️ [Clickable HTML prototype](https://github.com/alo7lika/fictional-team-notes-product-prototype/blob/main/outputs/prototype.html)
+- 🖱️ [Clickable HTML prototype](https://firstvaluepreview.netlify.app/)
 
 ## ✅ What’s inside
 
