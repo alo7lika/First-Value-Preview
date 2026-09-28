@@ -12,7 +12,7 @@ A new teammate should be able to understand their access, create a note, and rea
 
 ## 🚀 Try the prototype
 
-[**Open the First Value Preview**](./prototype.html)
+[**Open the First Value Preview**](https://github.com/alo7lika/fictional-team-notes-product-prototype/blob/main/outputs/prototype.html)
 
 1. Select **Create a note**, enter some text, and save it.
 2. Select **Generate summary** to see a deterministic sample summary.
@@ -23,9 +23,9 @@ The prototype is a standalone HTML file. It needs no installation or server when
 
 ## 📦 Quest deliverables
 
-- 🧭 [Why this problem? — intent and prioritization](./intent.md)
-- 📝 [Final directive — requirements and release handoff](./Final%20directive.md)
-- 🖱️ [Clickable HTML prototype](./prototype.html)
+- 🧭 [Why this problem? — intent and prioritization](https://github.com/alo7lika/fictional-team-notes-product-prototype/blob/main/outputs/intent.md)
+- 📝 [Final directive — requirements and release handoff](https://github.com/alo7lika/fictional-team-notes-product-prototype/blob/main/outputs/Final%20directive.md)
+- 🖱️ [Clickable HTML prototype](https://github.com/alo7lika/fictional-team-notes-product-prototype/blob/main/outputs/prototype.html)
 
 ## ✅ What’s inside
 
@@ -38,7 +38,7 @@ The prototype is a standalone HTML file. It needs no installation or server when
 
 ## ⚠️ Verification status
 
-Acceptance scenarios are documented as **source-inspection checks**. Browser interaction checks were not completed in the authoring environment. No real users, product telemetry, imports, AI summaries, or release approvals are represented. See the [handoff appendix](./Final%20directive.md#results-and-handoff-appendix) for details and limitations.
+Acceptance scenarios are documented as **source-inspection checks**. Browser interaction checks were not completed in the authoring environment. No real users, product telemetry, imports, AI summaries, or release approvals are represented. See the [handoff appendix](https://github.com/alo7lika/fictional-team-notes-product-prototype/blob/main/outputs/Final%20directive.md#results-and-handoff-appendix) for details and limitations.
 
 ## 🧪 If you are reviewing this
 
@@ -47,3 +47,4 @@ Please open the prototype in a browser and check the new-user path, permission b
 ---
 
 *Prepared as a fictional product-management/design Quest submission. No confidential employer or customer information is included.*
+
